@@ -1,0 +1,8 @@
+LabRazum_PeopleCounter	KEYWORD1
+Room	KEYWORD1
+
+lightControl	KEYWORD2
+getCountPeople	KEYWORD2
+getLightRoom	KEYWORD2
+begin	KEYWORD2
+debug	KEYWORD2
