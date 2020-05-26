@@ -1,5 +1,5 @@
 /* Библиотека для автоматического управления светом с подсчетом количества людей в комнате
- * Сайт проекта: https://edu.labrazum.ru/people_counter
+ * Сайт проекта: https://edu.labrazum.ru/people-counter
  * Свежая версия на GitHub: https://github.com/viktor-osin/PeopleCounter
 */
 #include "LabRazum_PeopleCounter.h"
